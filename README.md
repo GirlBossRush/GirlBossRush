@@ -1,59 +1,30 @@
+![Banner Avatar](/images/banner-avatar.png)
+
 ### Hey there! 👋
 
-<!--
-**GirlBossRush/GirlBossRush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TL;DR
 
-Here are some ideas to get you started:
+- **10+ years experience** building web apps.
+- **Results-driven** and **self-motivated**.
+- Enjoys working with a **close team of thought-leaders**.
+- Most interested in building **open-source** products **designed for engineers.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm an experienced full-stack developer
 
-Best,
-~Teffen
+With a focus on **shipping products**.
 
----
-She/Her
+## Whether it's the front of the front-end
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+Writing **JavaScript**, **TypeScript**, **React.js**, and **CSS**...
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+## Creating _accessible_ and _multi-lingual_ web apps...
 
-**🐱 My GitHub Data** 
+Using tools like **Sketch**, **Figma**, and **Material UI**...
 
-> 🏆 1,027 Contributions in the Year 2022
- > 
-> 📦 30.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 54 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I Mostly Code in JavaScript** 
+## Keeping up with the latest SaaS
 
-```text
-JavaScript               13 repos            ███████████░░░░░░░░░░░░░░   46.43% 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-CoffeeScript             2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+Deploying your app to services like **AWS**, **Firestore** **Cloudflare**, and **Deno**.
 
-```
+# Let's build something incredible together!
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/GirlBossRush/GirlBossRush/main/charts/bar_graph.png) 
-
-
- Last Updated on 26/09/2022 16:25:11 UTC
-<!--END_SECTION:waka-->
+- [Portfolio site](https://nirri.us)
